@@ -74,7 +74,7 @@ def news_content(url, period_parameter = '24h'):
     return article
     
 topn = 3
-time_frame = '60d'
+time_frame = '365d'
 selected_model = "gpt-3.5-turbo"
 # json_resp = search('Tesla(TSLA) news', period_parameter = time_frame, top_n = topn)
 # print(json_resp)
@@ -112,11 +112,16 @@ if prompt := st.chat_input("What is up?"):
                     top_p=0.95,
                     # stream=True,
             )
-
+        print(search_for)
         json_resp = search(search_for.choices[0].message.content, period_parameter = time_frame, top_n = topn)
-        # print(json_resp)
+        print(json_resp)
         all_response = []
+        # i = 0
+        # print(range(len(json_resp)))
         for i in range(len(json_resp)):
+        # while i < len(json_resp):
+        #     print(i)
+        #     print(json_resp[0]['url'])
             url = json_resp[i]['url']
             try: 
                 article = news_content(json_resp[i]['url'])
@@ -142,8 +147,13 @@ if prompt := st.chat_input("What is up?"):
 
                 all_assistent_content = {'title': article.title, 'url': json_resp[i]['url'], 'content': response}
                 all_response.append(all_assistent_content)
+                # i += 1
             except:
                 st.write(f'"{url}" does not work')
+                # if i>0:
+                #     i = i-1
+                # else:
+                #     i = 0
 
             # print(all_response)
 
