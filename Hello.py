@@ -115,29 +115,39 @@ if prompt := st.chat_input("What is up?"):
 
         json_resp = search(search_for.choices[0].message.content, period_parameter = time_frame, top_n = topn)
         # print(json_resp)
-
+        all_response = []
         for i in range(len(json_resp)):
-            # try: 
-            article = news_content(json_resp[i]['url'])
-            # print(article.title)
-            prompt = f'[USER]: The title of the article is: "{article.title}"' + '\n'
-            prompt += f'Summarize the content in one paragraph.' + '\n'
-            prompt += article.text
-            # print(prompt)
-            # response = st.write_stream(article.title)
-            completion = client.chat.completions.create(
-                        model= selected_model,
-                        messages=[
-                            {"role": "system", "content": '''You are an analyst specializing summarizing news.'''},
-                            {"role": "user", "content": prompt}
-                        ],
-                        temperature=0.0,
-                        top_p=0.95,  
-                        stream=True,
-                        )
-            response = st.write_stream(completion)
-            st.write(article.title)
-            st.write(json_resp[i]['url'])
+            url = json_resp[i]['url']
+            try: 
+                article = news_content(json_resp[i]['url'])
+                # print(article.title)
+                prompt = f'[USER]: The title of the article is: "{article.title}"' + '\n'
+                prompt += f'Summarize the content in one paragraph in a concise manner.' + '\n'
+                prompt += article.text
+                # print(prompt)
+                # response = st.write_stream(article.title)
+                completion = client.chat.completions.create(
+                            model= selected_model,
+                            messages=[
+                                {"role": "system", "content": '''You are an analyst specializing summarizing news.'''},
+                                {"role": "user", "content": prompt}
+                            ],
+                            temperature=0.0,
+                            top_p=0.95,  
+                            stream=True,
+                            )
+                response = st.write_stream(completion)
+                st.write(article.title)
+                st.write(json_resp[i]['url'])
+
+                all_assistent_content = {'title': article.title, 'url': json_resp[i]['url'], 'content': response}
+                all_response.append(all_assistent_content)
+            except:
+                st.write(f'"{url}" does not work')
+
+            # print(all_response)
+
+    st.session_state.messages.append({"role": "assistant", "content": response})
 
                 # print(completion.choices[0].message.content)
             # except:
@@ -153,5 +163,5 @@ if prompt := st.chat_input("What is up?"):
     #         stream=True,
     #     )
     #     response = st.write_stream(stream)
-    st.session_state.messages.append({"role": "assistant", "content": response})
+    
 

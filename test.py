@@ -18,3 +18,10 @@ completion = client.chat.completions.create(
   top_p=0.95,  
 )
 print(completion.choices[0].message.content)
+
+all_response = []
+
+temp = {'title': 'add', 'content': 'whatever'}
+all_response.append(temp)
+
+print(all_response)
