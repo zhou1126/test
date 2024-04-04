@@ -75,19 +75,19 @@ def news_content(url, period_parameter = '24h'):
     
 topn = 3
 time_frame = '60d'
-openai_api_key = "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"
 selected_model = "gpt-3.5-turbo"
-
 # json_resp = search('Tesla(TSLA) news', period_parameter = time_frame, top_n = topn)
 # print(json_resp)
 
 st.title("News Aggregator Sandbox")
 
-# client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-client = OpenAI(api_key=openai_api_key)
 
-# if "openai_model" not in st.session_state:
-#     st.session_state["openai_model"] = "gpt-3.5-turbo"
+
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+# client = OpenAI(api_key=openai_api_key)
+
+if "openai_model" not in st.session_state:
+    st.session_state["openai_model"] = "gpt-3.5-turbo"
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -108,16 +108,10 @@ if prompt := st.chat_input("What is up?"):
                         {"role": "system", "content": '''You are a Google engineer and you will receive user's input. Find what the user trying to search for. Just answer the object/subject what the user want to find out.'''},
                         {"role": 'user', "content": prompt}]
                     ,
-                    # messages=[
-                    #     [{"role":"system","content":'''You are a Google engineer and you will receive user's input. Find what the user trying to search for. Just answer the object/subject what the user want to find out.'''}, {"role": m["role"], "content": m["content"]}]
-                    #     for m in st.session_state.messages
-                    # ],
                     temperature=0.0,
                     top_p=0.95,
                     # stream=True,
             )
-        # print(search_for.choices[0].message.content)
-        # response = st.write_stream(search_for)
 
         json_resp = search(search_for.choices[0].message.content, period_parameter = time_frame, top_n = topn)
         # print(json_resp)
