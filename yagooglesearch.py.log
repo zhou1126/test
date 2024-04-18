@@ -1,0 +1,639 @@
+2024-04-17 22:27:58,046 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2024-04-17 22:28:01,703 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:28:01,703 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; CrOS i686 0.9.128; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.339'}
+2024-04-17 22:28:01,703 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie AEC=AQTF6HwefG2IWTq7ubM5sxgz5nhbzJpv_rlT8perhqnZj_Fyv7FbtewtPw for .google.com/>, <Cookie NID=513=LFwmIzku7pD_qFEsupILMKkzjSS5zN41b3dt5EM9ofXqJJppURyc6VaU2ksE_oicaqFNqD0YFvsJMizkUWldjL1xkXnFggrj1kk6Jco81YUy9AW5BWtQfYxvGfXHAXHG9heCrLl9tbNp6rnFSQ15A62Eq6ZSTj2wmhoR-JyaVT4 for .google.com/>]>
+2024-04-17 22:28:01,703 [MainThread  ] [DEBUG]     proxy: socks5h://202.144.157.1:9009
+2024-04-17 22:28:01,703 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:28:01,705 [MainThread  ] [INFO] Stats: start=0, num=3, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2024-04-17 22:28:01,705 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&num=3&btnG=Google+Search&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:29:18,099 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2024-04-17 22:29:23,238 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:29:23,239 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.8) Gecko/20100804 Gentoo Firefox/3.6.8'}
+2024-04-17 22:29:23,239 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie AEC=AQTF6Hxa0DT7C7B5sLyMxYrbbPtWInNp43nvU_fESpaKZI3vlrRqaqHRPdg for .google.com/>, <Cookie NID=513=gfirEpekt-jTnoNTh8iccSzpYTtsznSxSWPrTusicvQaKEYXCSdOapl5Y11_KnXprzxtGIJWCrFr4cPa0Wcf7rzREa4f9f9Ydkg9kF5lMeS05HpklbcrmQTnWCqf_hXVJI91nMh-hLjA6U7gElfWmFuTWB33sSHy7HgaR1uU1ho for .google.com/>]>
+2024-04-17 22:29:23,239 [MainThread  ] [DEBUG]     proxy: http://202.144.157.1:9009
+2024-04-17 22:29:23,239 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:29:23,241 [MainThread  ] [INFO] Stats: start=0, num=3, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2024-04-17 22:29:23,241 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&num=3&btnG=Google+Search&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:30:12,078 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2024-04-17 22:31:38,754 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2024-04-17 22:45:54,639 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2024-04-17 22:45:54,725 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:45:54,725 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:45:54,725 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie AEC=AQTF6HzEryjNjhOnhADGBm8Knt9k3BoQAmMArCUU_dOLk94wwYAfussLq7k for .google.com/>, <Cookie NID=513=P7Gaw7QMcFdg1qAkhRgBe-7EBmJqc4Q-aAq-JKmC28AwHPqJ_DX0Ba6aSd-_McYHi5_NAJEs_rKUHNnaPjBE1s_IruQivgI7cMBZaeG8lTRm7g891ew15h0md_J2ZcrenQahJU8My4k6MZsF0VOGTt_5Fa26NFZx1zXuR5MwJtY for .google.com/>]>
+2024-04-17 22:45:54,725 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:45:54,725 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:45:54,726 [MainThread  ] [INFO] Stats: start=0, num=3, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2024-04-17 22:45:54,726 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&num=3&btnG=Google+Search&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:45:55,238 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:45:55,238 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:45:55,238 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[]>
+2024-04-17 22:45:55,238 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:45:55,238 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?num=3&lr=lang_en&safe=off&sa=G&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQPAgC
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?num=3&lr=lang_en&safe=off&sa=G&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQPAgC
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBSgB
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBSgB
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBigC
+2024-04-17 22:45:55,249 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBigC
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBygD
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ_AUIBygD
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.brother-usa.com/corporate-news&sa=U&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQFnoECAEQAg&usg=AOvVaw1ZbDcvtmLHfK7bpCfGL5Us
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.brother-usa.com/corporate-news
+2024-04-17 22:45:55,250 [MainThread  ] [INFO] Found unique URL #1: https://www.brother-usa.com/corporate-news
+2024-04-17 22:45:55,250 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://global.brother/en&sa=U&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQFnoECAMQAg&usg=AOvVaw3g4LTiYVeP3j8MTZfj69RC
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://global.brother/en
+2024-04-17 22:45:55,251 [MainThread  ] [INFO] Found unique URL #2: https://global.brother/en
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sa=G&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+company+news+updates+%22United%22+States+2024&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ5t4CegQIAxAF
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sa=G&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+company+news+updates+%22United%22+States+2024&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ5t4CegQIAxAF
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.reuters.com/world/us/us-senate-expected-swiftly-end-mayorkas-impeachment-2024-04-17/&sa=U&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQFnoECAIQAg&usg=AOvVaw1FSPYoq0YJfVmnf58IBb5o
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.reuters.com/world/us/us-senate-expected-swiftly-end-mayorkas-impeachment-2024-04-17/
+2024-04-17 22:45:55,251 [MainThread  ] [INFO] Found unique URL #3: https://www.reuters.com/world/us/us-senate-expected-swiftly-end-mayorkas-impeachment-2024-04-17/
+2024-04-17 22:45:55,251 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAE
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAE
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAI
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAI
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:45:55,252 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAM
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAM
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAQ
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAQ
+2024-04-17 22:45:55,253 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAU
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAU
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAY
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAY
+2024-04-17 22:45:55,254 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAc
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAc
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,255 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAg
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQ1QJ6BAgAEAg
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=IlEgZsSaL9qn5NoPrZuQgA0&start=3&sa=N&filter=0
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=IlEgZsSaL9qn5NoPrZuQgA0&start=3&sa=N&filter=0
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,256 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQty4IIw&usg=AOvVaw3QZBjVjry5CQJLprUbF0lU
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526num%253D3%2526btnG%253DGoogle%252BSearch%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQxs8CCCQ&usg=AOvVaw1ck6D1AizcbtEjjGOJPLhM
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26num%3D3%26btnG%3DGoogle%2BSearch%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQv5YECCU
+2024-04-17 22:45:55,257 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjEs6PwqcqFAxXaE1kFHa0NBNAQv5YECCU
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:45:55,258 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:45:55,258 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2024-04-17 22:46:06,258 [MainThread  ] [INFO] Stats: start=3, num=3, total_valid_links_found=3 / max_search_result_urls_to_return=100
+2024-04-17 22:46:06,259 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&start=3&num=3&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:46:06,658 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:46:06,658 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:46:06,659 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie AEC=AQTF6HyHnnN_PtwdpBWyr91IH8_hVKBo0Hu3572oQSWoXS-0fsOABnUhXM0 for .google.com/>, <Cookie NID=513=lei5DOn5bsxP_cIStG1kYTjbs-0xO933nxY2NkEa-AD13oHwOD0oshXnKEYJuOMLfx4V2L-zxtqhrYQjbERB8HOhmvXdyw36-xcFYtVIBZ3TPGpVhG7b4BmsnjxUiy3WNtR7ksIzGXwewBep92gXKnIqoZrRhQKOAAniBGmiTM8 for .google.com/>]>
+2024-04-17 22:46:06,659 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:46:06,659 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:46:06,668 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=3&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxA8CAI
+2024-04-17 22:46:06,668 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=3&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxA8CAI
+2024-04-17 22:46:06,668 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,668 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgFKAE
+2024-04-17 22:46:06,668 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgFKAE
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgGKAI
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgGKAI
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgHKAM
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxD8BQgHKAM
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,669 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.brother-usa.com/about-brother-international&sa=U&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxAWegQIAxAC&usg=AOvVaw2-jf0g2gLvllfr5GNUJXhS
+2024-04-17 22:46:06,670 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.brother-usa.com/about-brother-international
+2024-04-17 22:46:06,670 [MainThread  ] [INFO] Found unique URL #4: https://www.brother-usa.com/about-brother-international
+2024-04-17 22:46:06,670 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.sec.gov/news/pressreleases&sa=U&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxAWegQIAhAC&usg=AOvVaw16sVBTs4jaykWJO09y2jBU
+2024-04-17 22:46:06,670 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.sec.gov/news/pressreleases
+2024-04-17 22:46:06,670 [MainThread  ] [INFO] Found unique URL #5: https://www.sec.gov/news/pressreleases
+2024-04-17 22:46:06,670 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.politico.com/news/2024/02/18/the-biden-name-how-the-presidents-brother-became-embroiled-in-a-hospital-fiasco-00141868&sa=U&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxAWegQIARAC&usg=AOvVaw3xYTLdrxNu_9UYjg1arjsR
+2024-04-17 22:46:06,670 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.politico.com/news/2024/02/18/the-biden-name-how-the-presidents-brother-became-embroiled-in-a-hospital-fiasco-00141868
+2024-04-17 22:46:06,671 [MainThread  ] [INFO] Found unique URL #6: https://www.politico.com/news/2024/02/18/the-biden-name-how-the-presidents-brother-became-embroiled-in-a-hospital-fiasco-00141868
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAQ
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAQ
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,671 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAg
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAg
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAw
+2024-04-17 22:46:06,672 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQAw
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBA
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBA
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,673 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBQ
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBQ
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:06,674 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBg
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBg
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBw
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQBw
+2024-04-17 22:46:06,675 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQCA
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDVAnoECAAQCA
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:06,676 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=LlEgZuHMEr6h5NoPqdKriAY&start=0&sa=N&filter=0
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=LlEgZuHMEr6h5NoPqdKriAY&start=0&sa=N&filter=0
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=LlEgZuHMEr6h5NoPqdKriAY&start=6&sa=N&filter=0
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=LlEgZuHMEr6h5NoPqdKriAY&start=6&sa=N&filter=0
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,677 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxC3Lggh&usg=AOvVaw1s9mw4ifMlqmRA4m0TOWDR
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526start%253D3%2526num%253D3%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxDGzwIIIg&usg=AOvVaw13cH38JqPTitIOiN2xrF1t
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26start%3D3%26num%3D3%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxC_lgQIIw
+2024-04-17 22:46:06,678 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjhm-P1qcqFAxW-EFkFHSnpCmE4AxC_lgQIIw
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:06,679 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:06,679 [MainThread  ] [INFO] Sleeping 13 seconds until retrieving the next page of results...
+2024-04-17 22:46:19,680 [MainThread  ] [INFO] Stats: start=6, num=3, total_valid_links_found=6 / max_search_result_urls_to_return=100
+2024-04-17 22:46:19,680 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&start=6&num=3&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:46:20,016 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:46:20,017 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:46:20,017 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie NID=513=nyDHYDzK8piiM9ArVVCUt1zT2EhF6nvNe_1f3ctr4SN1GmINXLgq9M5FVgNtkScqydmAvsP0x1Rky8Z8w-PoRlNOTcmIlXm0gdheUvNQP6GRi12KcjYlRZcvVcTVoo69fgaC_q29X4N971VykP_JopGUjPVReX6MXZChfLdhG3k for .google.com/>]>
+2024-04-17 22:46:20,017 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:46:20,017 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=6&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhA8CAI
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=6&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhA8CAI
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgFKAE
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgFKAE
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgGKAI
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgGKAI
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,026 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgHKAM
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhD8BQgHKAM
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.linkedin.com/company/brother-usa&sa=U&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhAWegQIAxAC&usg=AOvVaw07GE2widTECClT_ZXVrdCI
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.linkedin.com/company/brother-usa
+2024-04-17 22:46:20,027 [MainThread  ] [INFO] Found unique URL #7: https://www.linkedin.com/company/brother-usa
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.reuters.com/world/us/us-house-ukraine-israel-aid-bills-be-filed-wednesday-speaker-says-2024-04-17/&sa=U&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhAWegQIARAC&usg=AOvVaw0vsbwiPlAAIfRIHAQQoZxO
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.reuters.com/world/us/us-house-ukraine-israel-aid-bills-be-filed-wednesday-speaker-says-2024-04-17/
+2024-04-17 22:46:20,027 [MainThread  ] [INFO] Found unique URL #8: https://www.reuters.com/world/us/us-house-ukraine-israel-aid-bills-be-filed-wednesday-speaker-says-2024-04-17/
+2024-04-17 22:46:20,027 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.brother-usa.com/home&sa=U&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhAWegQIAhAC&usg=AOvVaw2AJelQcxCxqDjsOaSHhYfa
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.brother-usa.com/home
+2024-04-17 22:46:20,028 [MainThread  ] [INFO] Found unique URL #9: https://www.brother-usa.com/home
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAQ
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAQ
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,028 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAg
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAg
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAw
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQAw
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:20,029 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBA
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBA
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBQ
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBQ
+2024-04-17 22:46:20,030 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBg
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBg
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBw
+2024-04-17 22:46:20,031 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQBw
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQCA
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDVAnoECAAQCA
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:20,032 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=0&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=0&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=3&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=3&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=9&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=O1EgZuWLLLWu5NoP3dCMqAc&start=9&sa=N&filter=0
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhC3Lggh&usg=AOvVaw2ZoR54m1g3MunPK6jbcTAe
+2024-04-17 22:46:20,033 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526start%253D6%2526num%253D3%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhDGzwIIIg&usg=AOvVaw0HUPbBe3e1yZc5Dc5ACcZR
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26start%3D6%26num%3D3%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhC_lgQIIw
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwillZb8qcqFAxU1F1kFHV0oA3U4BhC_lgQIIw
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:20,034 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,035 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:20,035 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:20,035 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:20,035 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2024-04-17 22:46:29,035 [MainThread  ] [INFO] Stats: start=9, num=3, total_valid_links_found=9 / max_search_result_urls_to_return=100
+2024-04-17 22:46:29,035 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&start=9&num=3&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:46:29,367 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:46:29,367 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:46:29,368 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie AEC=AQTF6HxnM_VhN9kz0sSUNoJQA4P2L8UZeA28qYGcQoGhhm8ihFiyvD_sSmQ for .google.com/>]>
+2024-04-17 22:46:29,368 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:46:29,368 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:46:29,378 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=9&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRA8CAI
+2024-04-17 22:46:29,378 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=9&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRA8CAI
+2024-04-17 22:46:29,378 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,378 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgFKAE
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgFKAE
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgGKAI
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgGKAI
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgHKAM
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRD8BQgHKAM
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://home.treasury.gov/news/press-releases&sa=U&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRAWegQIAxAC&usg=AOvVaw1zkjRxPgch04pKhMb8McTe
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://home.treasury.gov/news/press-releases
+2024-04-17 22:46:29,379 [MainThread  ] [INFO] Found unique URL #10: https://home.treasury.gov/news/press-releases
+2024-04-17 22:46:29,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=%22Brother%22+company+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgDEAU
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=%22Brother%22+company+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgDEAU
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.justice.gov/usao-nm/pr/fruitland-man-charged-assault-and-federal-firearms-offense&sa=U&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRAWegQIAhAC&usg=AOvVaw3SWQSMQobdnzjs7Vhq6ccg
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.justice.gov/usao-nm/pr/fruitland-man-charged-assault-and-federal-firearms-offense
+2024-04-17 22:46:29,380 [MainThread  ] [INFO] Found unique URL #11: https://www.justice.gov/usao-nm/pr/fruitland-man-charged-assault-and-federal-firearms-offense
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgCEAY
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgCEAY
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.whitehouse.gov/briefing-room/&sa=U&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRAWegQIARAC&usg=AOvVaw22U9G4LJax03L7bBIUB-6j
+2024-04-17 22:46:29,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.whitehouse.gov/briefing-room/
+2024-04-17 22:46:29,381 [MainThread  ] [INFO] Found unique URL #12: https://www.whitehouse.gov/briefing-room/
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=%22Brother%22+company+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgBEAU
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=%22Brother%22+company+news+updates+United+States+2024&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDm3gJ6BAgBEAU
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAQ
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAQ
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAg
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAg
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:29,382 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAw
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQAw
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBA
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBA
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBQ
+2024-04-17 22:46:29,384 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBQ
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBg
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBg
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,385 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBw
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQBw
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:29,386 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQCA
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDVAnoECAAQCA
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=0&sa=N&filter=0
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=0&sa=N&filter=0
+2024-04-17 22:46:29,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=6&sa=N&filter=0
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=6&sa=N&filter=0
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=12&sa=N&filter=0
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&hl=en&tbs=lr:lang_1en&ei=RVEgZtXmBP3l5NoPjPCJ0AY&start=12&sa=N&filter=0
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRC3Lggn&usg=AOvVaw0Pv2Ed5XQmmuE5cpU8JsHZ
+2024-04-17 22:46:29,388 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526start%253D9%2526num%253D3%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRDGzwIIKA&usg=AOvVaw0PKhykDqifZbjHqWZb4Wru
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26start%3D9%26num%3D3%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRC_lgQIKQ
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiVndGAqsqFAxX9MlkFHQx4Amo4CRC_lgQIKQ
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,389 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:29,390 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:29,390 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,390 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:29,390 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:29,390 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:29,390 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2024-04-17 22:46:39,390 [MainThread  ] [INFO] Stats: start=12, num=3, total_valid_links_found=12 / max_search_result_urls_to_return=100
+2024-04-17 22:46:39,391 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&start=12&num=3&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:46:39,830 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:46:39,830 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:46:39,830 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie NID=513=nSpM8_tvdtdHd6fRIHiIb7Ad5-H8pkI_rySFsMgonEIbs13uxaykkhPjCup7Uz5dt1f_980F5OJXG7fKYke6Qoz9jAvaFN6aE9lretg7QEZIi0SUV0ZQyYkFIGoqKUNgkLqJqYVUgCAFNjw16i0ZGkBReBwZpDjC1k1lygncsYI for .google.com/>]>
+2024-04-17 22:46:39,830 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:46:39,831 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:46:39,839 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=12&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBA8CAI
+2024-04-17 22:46:39,839 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=12&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBA8CAI
+2024-04-17 22:46:39,839 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,839 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgFKAE
+2024-04-17 22:46:39,839 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgFKAE
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgGKAI
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgGKAI
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgHKAM
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBD8BQgHKAM
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://whyy.org/articles/kevin-boyle-mental-illness-pennsylvania-brendan-issues-statement-after-warrant-issued/&sa=U&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBAWegQIAxAC&usg=AOvVaw0j9vRw7RIptcV0_QHbnR2E
+2024-04-17 22:46:39,840 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://whyy.org/articles/kevin-boyle-mental-illness-pennsylvania-brendan-issues-statement-after-warrant-issued/
+2024-04-17 22:46:39,840 [MainThread  ] [INFO] Found unique URL #13: https://whyy.org/articles/kevin-boyle-mental-illness-pennsylvania-brendan-issues-statement-after-warrant-issued/
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDm3gJ6BAgDEAY
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDm3gJ6BAgDEAY
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cbsnews.com/news/koch-brothers-endorse-nikki-haley-president/&sa=U&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBAWegQIARAC&usg=AOvVaw0YgMu2IbKW0LlgBxgllWVc
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cbsnews.com/news/koch-brothers-endorse-nikki-haley-president/
+2024-04-17 22:46:39,841 [MainThread  ] [INFO] Found unique URL #14: https://www.cbsnews.com/news/koch-brothers-endorse-nikki-haley-president/
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.nbcnews.com/&sa=U&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBAWegQIAhAC&usg=AOvVaw2kpheLy7HKwlPUjKmOSPZG
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.nbcnews.com/
+2024-04-17 22:46:39,841 [MainThread  ] [INFO] Found unique URL #15: https://www.nbcnews.com/
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAQ
+2024-04-17 22:46:39,841 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAQ
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAg
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAg
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAw
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQAw
+2024-04-17 22:46:39,842 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBA
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBA
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBQ
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBQ
+2024-04-17 22:46:39,843 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBg
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBg
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBw
+2024-04-17 22:46:39,844 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQBw
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQCA
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDVAnoECAAQCA
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=0&sa=N&filter=0
+2024-04-17 22:46:39,845 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=0&sa=N&filter=0
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=9&sa=N&filter=0
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=9&sa=N&filter=0
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=15&sa=N&filter=0
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=T1EgZp7dGozi5NoP8qiZ-AE&start=15&sa=N&filter=0
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBC3Lggk&usg=AOvVaw1fJqoNhHm9Egg4HyWENXEx
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,846 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526start%253D12%2526num%253D3%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBDGzwIIJQ&usg=AOvVaw0xOfjjocJCu4WHigBTfseH
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26start%3D12%26num%3D3%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBC_lgQIJg
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjewMmFqsqFAxUMMVkFHXJUBh84DBC_lgQIJg
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:39,847 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:39,848 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2024-04-17 22:46:47,848 [MainThread  ] [INFO] Stats: start=15, num=3, total_valid_links_found=15 / max_search_result_urls_to_return=100
+2024-04-17 22:46:47,848 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&lr=lang_en&q=Brother+company+news+updates+United+States+2024&start=15&num=3&tbs=0&safe=off&cr=&filter=0
+2024-04-17 22:46:48,217 [MainThread  ] [DEBUG]     status_code: 200
+2024-04-17 22:46:48,217 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.1) Gecko/20090624 Firefox/3.5'}
+2024-04-17 22:46:48,217 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2024-04-17-22 for .google.com/>, <Cookie AEC=AQTF6Hy3SrwpctgmsRS7nbwDGp308lkrpeA6l6dhH79vZl9IXyKTXaIPzQ for .google.com/>]>
+2024-04-17 22:46:48,217 [MainThread  ] [DEBUG]     proxy: 
+2024-04-17 22:46:48,218 [MainThread  ] [DEBUG]     verify_ssl: True
+2024-04-17 22:46:48,226 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=15&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxA8CAI
+2024-04-17 22:46:48,226 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=15&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&output=search&tbs=lr:lang_1en&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxA8CAI
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgFKAE
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=nws&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgFKAE
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgGKAI
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=isch&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgGKAI
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgHKAM
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&tbm=vid&source=lnms&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxD8BQgHKAM
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,227 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ofac.treasury.gov/recent-actions&sa=U&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxAWegQIAhAC&usg=AOvVaw3jwnQWEsw5YLs1JYCnfdAn
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ofac.treasury.gov/recent-actions
+2024-04-17 22:46:48,228 [MainThread  ] [INFO] Found unique URL #16: https://ofac.treasury.gov/recent-actions
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://fortune.com/&sa=U&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxAWegQIAxAC&usg=AOvVaw0rda0ww-QVDWCwzAqimnFD
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://fortune.com/
+2024-04-17 22:46:48,228 [MainThread  ] [INFO] Found unique URL #17: https://fortune.com/
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://va.ng.mil/News/Article/3744745/flora-retires-after-more-than-36-years-of-service/&sa=U&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxAWegQIARAC&usg=AOvVaw1HC_2ltgq3ZXN_4y_SJlTC
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://va.ng.mil/News/Article/3744745/flora-retires-after-more-than-36-years-of-service/
+2024-04-17 22:46:48,228 [MainThread  ] [INFO] Found unique URL #18: https://va.ng.mil/News/Article/3744745/flora-retires-after-more-than-36-years-of-service/
+2024-04-17 22:46:48,228 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDm3gJ6BAgBEAY
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=Brother+%22company%22+news+updates+United+States+2024&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDm3gJ6BAgBEAY
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAQ
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAQ
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+usa
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAg
+2024-04-17 22:46:48,229 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAg
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+corp
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAw
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQAw
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+industries
+2024-04-17 22:46:48,230 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBA
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBA
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+colorado
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBQ
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBQ
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,231 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brother+international+logo
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBg
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBg
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=bbc+news
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBw
+2024-04-17 22:46:48,232 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQBw
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+ltd
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQCA
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group&sa=X&ved=2ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDVAnoECAAQCA
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&q=brothers+group
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,233 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=0&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=0&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=12&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=12&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=18&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=Brother+company+news+updates+United+States+2024&num=3&lr=lang_en&safe=off&sca_esv=f7d78de355298e03&sca_upv=1&hl=en&tbs=lr:lang_1en&ei=V1EgZv3HNuSs5NoPj4qgoAQ&start=18&sa=N&filter=0
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxC3Lggj&usg=AOvVaw2nqhrmG_G1jLTVI6kOOs6S
+2024-04-17 22:46:48,234 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526lr%253Dlang_en%2526q%253DBrother%252Bcompany%252Bnews%252Bupdates%252BUnited%252BStates%252B2024%2526start%253D15%2526num%253D3%2526tbs%253D0%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&opi=89978449&sa=U&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxDGzwIIJA&usg=AOvVaw0ltzjJ4I304zz-2uRo82gk
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26lr%3Dlang_en%26q%3DBrother%2Bcompany%2Bnews%2Bupdates%2BUnited%2BStates%2B2024%26start%3D15%26num%3D3%26tbs%3D0%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxC_lgQIJQ
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwi9z82JqsqFAxVkFlkFHQ8FCEQ4DxC_lgQIJQ
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:48,235 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/privacy/
+2024-04-17 22:46:48,236 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,236 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:48,236 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_us/policies/terms/
+2024-04-17 22:46:48,236 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2024-04-17 22:46:48,236 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
